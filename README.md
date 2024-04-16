@@ -26,6 +26,7 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 ### Example 2: Two Mass System
 
 - **Description:** Simulate a system with two masses connected by springs and dampers.
+  ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/4f6067c7-a738-4820-9388-60f5769cd5eb)
 - **Files:** `Two_Mass_System.mlx`, `Two_Mass_System_Model.slx`
   **Simscape Model**
   ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/cde84d82-7403-416c-b003-bd9b87ff45b9)
@@ -35,6 +36,10 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 
   3. Interactive plot showing the effect of changing damping coefficient using sliders to Zero for b1 and b2.
   ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/dc199996-88cd-4ee3-a48a-97d2d3be7827)
+
+  4.When increasing damping coffient to much.
+  ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/0666b9e6-6bc4-431b-af55-06745cf8f944)
+  Notes that: it's no longer oscillates and become over damped 
 
 
 ## Simulink Method
