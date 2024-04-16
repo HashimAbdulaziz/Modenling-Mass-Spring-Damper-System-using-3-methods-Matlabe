@@ -10,10 +10,9 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 
 - **Description:** Simulate a simple mass-spring-damper system with only one mass.
 - **Files:** `Single_Mass_System.mlx`, `Single_Mass_System_Model.slx`
-![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/44b22f5a-aa2b-46db-afe4-38c950cf0032)
 
-  1. Simscape Model
-     ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/379a3cee-d555-4807-b11f-6094731baf69)
+ **Simscape Model**
+  ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/379a3cee-d555-4807-b11f-6094731baf69)
 
   3. Plot of displacement of the mass (x) against time.
      ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/e3f5ca0f-38da-4630-bd47-0192db198cac)
