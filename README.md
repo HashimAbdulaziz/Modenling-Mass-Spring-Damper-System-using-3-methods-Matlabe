@@ -11,7 +11,7 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 - **Description:** Simulate a simple mass-spring-damper system with only one mass.
 ![Screenshot 2024-04-16 015553](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/5ce6852c-f1cb-4256-9642-3b32870b3520)
 
-- **Files:** `Single_Mass_System.mlx`, `Single_Mass_System_Model.slx`
+- **Files:** `mass_spring1.mlx`, `mass_spring1.slx`
 
  **Simscape Model**
   ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/379a3cee-d555-4807-b11f-6094731baf69)
@@ -27,7 +27,7 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 
 - **Description:** Simulate a system with two masses connected by springs and dampers.
   ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/4f6067c7-a738-4820-9388-60f5769cd5eb)
-- **Files:** `Two_Mass_System.mlx`, `Two_Mass_System_Model.slx`
+- **Files:** `mass_spring2.mlx`, `mass_spring2.slx`
   **Simscape Model**
   ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/cde84d82-7403-416c-b003-bd9b87ff45b9)
 
@@ -53,7 +53,7 @@ The following examples demonstrate its usage:
 
 - **Description:** Simulate a simple mass-spring-damper system with only one mass.
 ![Screenshot 2024-04-16 015553](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/5ce6852c-f1cb-4256-9642-3b32870b3520)
-- **Files:** `Single_Mass_System.mlx`, `Single_Mass_System_Model.slx`
+- **Files:** `mass_spring3.mlx`, `mass_spring2.slx`
 - **Simulink Model**
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/e97cf8f8-2c86-4c6c-8b33-ebae6dee9825)
  
@@ -66,7 +66,7 @@ The following examples demonstrate its usage:
 - **Description:** Simulate a system with two masses connected by springs and dampers.
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/4f6067c7-a738-4820-9388-60f5769cd5eb)
 
-- **Files:** `Two_Mass_System.mlx`, `Two_Mass_System_Model.slx`
+- **Files:** `mass_spring4.mlx`, `mass_spring4.slx`
 - **Simulink Model**
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/ff148ccb-d9c8-4202-96d9-5e7534ab1a4e)
 
@@ -81,7 +81,7 @@ Transfer function modeling provides a mathematical representation of system dyna
 ### Example 1: Single Mass System
 
 - **Description:** Derive and simulate the transfer function of a single mass system.
-- **Files:** `Single_Mass_System.mlx`
+- **Files:** `mass_spring5.mlx`, `mass_spring5.slx`
 - **Simulink Transfer fuction model**
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/332f5af7-431a-4948-ac82-1b3ac6b44ace)
 
@@ -93,7 +93,7 @@ Transfer function modeling provides a mathematical representation of system dyna
 - **Description:** Simulate a system with two masses connected by springs and dampers.
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/4f6067c7-a738-4820-9388-60f5769cd5eb)
 
-- **Files:** `Two_Mass_System.mlx`, `Two_Mass_System_Model.slx`
+- **Files:** `mass_spring6.mlx`, `mass_spring6.slx`
 - **Simulink Transfer function Model**
 ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/fbeb79de-5a0b-4056-a5c0-1b29938e5a88)
 
