@@ -82,9 +82,11 @@ Transfer function modeling provides a mathematical representation of system dyna
 
 - **Description:** Derive and simulate the transfer function of a single mass system.
 - **Files:** `Single_Mass_System.mlx`
-- **Figures:** 
-  1. Plot of displacement of the mass (x1) against time.
-  2. Pole-zero plot of the transfer function.
+- **Simulink Transfer fuction model**
+![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/332f5af7-431a-4948-ac82-1b3ac6b44ace)
+
+  1. Plot of displacement of the mass (x) against time.
+  ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/c9806b6b-ac2b-4d70-80d4-d263b0ea6dc1)
 
 ### Example 2: Two Mass System
 
