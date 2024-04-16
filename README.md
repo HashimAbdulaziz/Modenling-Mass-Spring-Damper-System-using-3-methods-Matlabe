@@ -44,15 +44,22 @@ SimScape is a powerful tool in MATLAB for modeling physical systems without gett
 
 ## Simulink Method
 
-Simulink provides a graphical environment for modeling dynamic systems. The following examples demonstrate its usage:
+Simulink provides a graphical environment for modeling dynamic systems.
+Too use this methode we need to draw a free body diagram from a system and drive
+differential equations.
+The following examples demonstrate its usage:
 
 ### Example 1: Single Mass System
 
 - **Description:** Simulate a simple mass-spring-damper system with only one mass.
+![Screenshot 2024-04-16 015553](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/5ce6852c-f1cb-4256-9642-3b32870b3520)
 - **Files:** `Single_Mass_System.mlx`, `Single_Mass_System_Model.slx`
-- **Figures:** 
-  1. Plot of displacement of the mass (x1) against time.
-  2. Plot showing the variation of displacement with changing damping coefficient.
+- **Simulink Model**
+![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/e97cf8f8-2c86-4c6c-8b33-ebae6dee9825)
+ 
+  1. Plot of displacement of the mass (x) against time.
+     ![image](https://github.com/HashimAbdulaziz/Modenling-Mass-Spring-Damper-System-using-3-methods-Matlabe/assets/88584784/f6b6bd01-de33-45f2-9044-664ca7d340c1)
+  Note that: we have same result of previous method!
 
 ### Example 2: Two Mass System
 
